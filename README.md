@@ -1,1 +1,4 @@
-# SpotTheDifferenceCapstone
+spot-the-difference
+===================
+
+MINI Match Game
